@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+#another {
+    background: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+.p {
+    background: #ffc0cb;
+    font-family: "DejaVu Sans", sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
